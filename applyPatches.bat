@@ -20,4 +20,7 @@ popd
 
 :quit
 echo nothing to do here
+<<<<<<< HEAD
 echo this line: nothing to do here too
+=======
+>>>>>>> origin/feature/a
